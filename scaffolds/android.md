@@ -8,5 +8,5 @@ categories:
 tags:
     - Android
 description:
-    ...
+    -
 ---

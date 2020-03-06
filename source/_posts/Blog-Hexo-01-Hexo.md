@@ -1,6 +1,8 @@
 ---
-title: Hexo
-date: 2020-03-06 09:25:03
+title:
+    Hexo
+date:
+    2020-03-06 09:25:03
 categories:
     - '博客搭建'
 tags:

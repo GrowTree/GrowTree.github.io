@@ -1,6 +1,8 @@
 ---
-title: Next
-date: 2020-03-06 14:14:03
+title:
+    Next
+date:
+    2020-03-06 14:14:03
 categories:
     - '博客搭建'
 tags:
